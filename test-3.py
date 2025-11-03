@@ -8,12 +8,12 @@ import pygetwindow as gw
 # URL que quieres abrir
 URL_TO_OPEN = "https://market4.pro/dota2/?new_auth=&sort_by=promo&sort_direction=DESC"
 
-# Ruta correcta del ejecutable de ProtonVPN
-PROTONVPN_PATH = r"C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe"
+# # Ruta correcta del ejecutable de ProtonVPN
+# PROTONVPN_PATH = r"C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe"
 
-# 1️⃣ Abrir ProtonVPN
-os.startfile(PROTONVPN_PATH)
-time.sleep(16)  # esperar que la app abra
+# # 1️⃣ Abrir ProtonVPN
+# os.startfile(PROTONVPN_PATH)
+# time.sleep(16)  # esperar que la app abra
 
 
 URL = "https://market4.pro/dota2/?new_auth=&sort_by=promo&sort_direction=DESC"
